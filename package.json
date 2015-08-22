@@ -1,0 +1,26 @@
+{
+  "name": "react-dimple",
+  "version": "1.0.0",
+  "description": "React chart components based on react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vickyonit/react-dimple.git"
+  },
+  "keywords": [
+    "react",
+    "dimplejs",
+    "chart",
+    "components",
+    "dashboard"
+  ],
+  "author": "Vignesh Rajendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vickyonit/react-dimple/issues"
+  },
+  "homepage": "https://github.com/vickyonit/react-dimple"
+}
